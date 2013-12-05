@@ -10,3 +10,5 @@ gantt chart > the gantt chart, also dates in logbook
 + dict > dictionary used in game
 + highscore > highscore files used in game
 + data > data files for game
+
+Sean Darcy
